@@ -19,6 +19,8 @@ description: '"An older book for a younger audience, this charming volume was wr
   by a British military hero during the first years of World War I. Baden-Powell,
   who founded the Boy Scouts, relates such espionage basics as disguise, hiding messages
   in innocuous objects, creating diversions, escaping capture, and other maneuvers"--'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15715#My-Adventures-as-a-Spy
 gutenberg_bookshelf: Scouts
 gutenberg_issued: '2005-04-26'
 gutenberg_type: Text
