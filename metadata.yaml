@@ -1,0 +1,37 @@
+_repo: My-Adventures-as-a-Spy_15715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+    aliases:
+    - Baden-Powell, R. S. S.
+    - Baden-Powell, Robert
+    - Baden-Powell, Baron Robert Stephenson Smyth
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '2144'
+    url: http://www.gutenberg.org/2009/agents/2144
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
+description: '"An older book for a younger audience, this charming volume was written
+  by a British military hero during the first years of World War I. Baden-Powell,
+  who founded the Boy Scouts, relates such espionage basics as disguise, hiding messages
+  in innocuous objects, creating diversions, escaping capture, and other maneuvers"--'
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2005-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15715'
+  lccn: '16012910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941'
+- !lcsh 'Spies -- Great Britain -- Biography'
+- !lcc 'UB'
+title: My Adventures as a Spy
+url: http://www.gutenberg.org/ebooks/15715
